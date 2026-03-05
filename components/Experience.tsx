@@ -3,7 +3,7 @@ import { Briefcase } from 'lucide-react';
 const experiences = [
   {
     id: 1,
-    role: 'Fullstack Developer',
+    role: 'Java Fullstack Developer',
     company: 'Biddingo',
     dateRange: 'July 2022 - Jan 2026',
     responsibilities: [
